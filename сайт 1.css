@@ -14,7 +14,7 @@ header #headline, header #circular-bg {
   color: #fff;
 }
 body {
-  background-image: url("https://github.com/OlgaFatyanova/fgfytr/blob/main/загружено.jpg");
+  background-image: url("https://raw.githubusercontent.com/OlgaFatyanova/fgfytr/main/lodki-reka-prichal-fotografiya-gorod.jpg");
   font-family: "Roboto", sans-serif;
   overflow: auto;
 }
@@ -33,7 +33,7 @@ header .info p {
 header #circular-bg {
   width: 85vw;
   height: 85vw;
-  background: CadetBlue; /* circle colour */
+  background: CadetBlue; 
   border-radius: 50%;
   z-index: -10;
 }
@@ -64,7 +64,7 @@ header #brand:before {
   position: absolute;
   width: 110%;
   height: 60px;
-  background-image: url("https://github.com/OlgaFatyanova/fgfytr/blob/main/загружено.jpg");
+  background-image: url("https://raw.githubusercontent.com/OlgaFatyanova/fgfytr/main/lodki-reka-prichal-fotografiya-gorod.jpg");
   bottom: -10px;
   left: -5%;
   border-radius: 60px;
